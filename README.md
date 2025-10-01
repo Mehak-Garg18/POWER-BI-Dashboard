@@ -1,7 +1,4 @@
 ﻿# POWER-BI-Dashboard
-<p align="center">
-   <img src="images/banner.png" alt="Power BI Dashboard Banner" width="100%" />
-</p>
 
 # 📊 Power BI Dashboard
 
@@ -87,6 +84,7 @@ The dashboard uses **sample sales data** that includes:
 - [ ] Add automated data refresh using Power BI Service  
 - [ ] Publish as a web app (Power BI Online)  
 - [ ] Integrate with real-time data sources  
+
 
 
 
